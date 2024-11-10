@@ -1,16 +1,16 @@
-## Hi there 👋
+# Yoo! 👋 I'm Patrick
 
-<!--
-**patrykwos/patrykwos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python
+- **Tools:** FastAPI, Django, Docker, SQL, Redis, AWS, AgroCD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects and Contributions
+1. [Beaver - LeetCode and MonkeyType Combo](https://github.com/nikitazigman/beaver) - Addressing LeetCode challenges and improving code-writing speed.
+2. [Flashcards](https://github.com/patrykwos/flashcards) - A simple flashcards app serving as a playground for learning TypeScript, React, and Next.js.
+
+🌱 Learning in progress: JavaScript, TypeScript, React, Next.js.
+
+## 📫 Let's Connect
+- LinkedIn: [Patryk Woś](https://www.linkedin.com/in/patryk-wo%C5%9B-5a8a7b242/)
+- Email: [patrykwos05@gmail.com](patrykwos05@gmail.com)
