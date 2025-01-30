@@ -3,7 +3,7 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python
-- **Tools:** FastAPI, Django, Docker, SQL, Redis, AWS, AgroCD
+- **Tools:** FastAPI, Django, Docker, SQL, Redis, AWS, ArgoCD
 
 ## 🚀 Projects and Contributions
 1. [Beaver - LeetCode and MonkeyType Combo](https://github.com/nikitazigman/beaver) - Addressing LeetCode challenges and improving code-writing speed.
